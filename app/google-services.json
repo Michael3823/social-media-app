@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066587850420",
+    "project_id": "visionarypt2",
+    "storage_bucket": "visionarypt2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066587850420:android:be6a356eda379db12079e1",
+        "android_client_info": {
+          "package_name": "com.example.visionarypt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066587850420-2ihmiggjbumqkndvub7crhi3rfupjvhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYSyJ8l-j94uZeBT1K87D7dBRMsVImSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066587850420-2ihmiggjbumqkndvub7crhi3rfupjvhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
